@@ -1,0 +1,2 @@
+# House-Price-Prediction-Problem
+In this project we have been given a prediction problem. The training data consist of 9,761 records of house prices data with 21 features such as bedrooms,bathrooms, square foot living etc. We have identified predictors among those variables and used them on models such as DecisionTree Regression and Linear Regression.  Used Concepts: CV validation, One hot encoding, GridSearchCV, feature engineering such as square transformation, log transformation, forward selection and backward elimination.
